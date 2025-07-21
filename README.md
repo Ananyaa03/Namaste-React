@@ -1,2 +1,2 @@
 # Namaste-React
-This repository for Assignment &amp; Notes taken during Namaste React Course
+This repository contains Assignment &amp; Notes taken during Namaste React Course
